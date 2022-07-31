@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAR3501
+D 3.5" TFT LCD Display
+K TFT LCD Display MAR3501 ILI9486
+F https://www.waveshare.com/w/upload/7/78/ILI9486_Datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
